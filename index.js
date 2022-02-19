@@ -1,2 +1,3 @@
-import $ from 'jquery';
-console.log('loaded');
+$(function(){
+    console.log('test');
+});
